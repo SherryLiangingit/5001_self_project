@@ -9,4 +9,10 @@ $O(n\overline{p}k)$ , where $k$ is the number of iterations (epochs) and $\overl
   
 ## About
 
-  The ipynb file records my work in details; xgboost.csv records my result. *(There might be small differences for I changed parameters in my code and forgot to save a copy.)*
+  The ipynb file records my work in details; 
+  xgboost.csv records my result. 
+  *(There might be small differences for I changed parameters in my code and forgot to save a copy.)*
+  
+  **Programming language** python
+  **Packages** pandas, numpy, sklearn, xgboost, matplotlib
+  **Attention** before run the code in jupyter notebook, change 'path' to your own work path
