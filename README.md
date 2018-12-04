@@ -15,8 +15,8 @@ $O(n\overline{p}k)$ , where $k$ is the number of iterations (epochs) and $\overl
   *(There might be small differences for I changed parameters in my code and forgot to save a copy.)*
   
   
-  **Programming language** python
+  **Programming language:** python
   
-  **Packages** pandas, numpy, sklearn, xgboost, matplotlib
+  **Packages:** pandas, numpy, sklearn, xgboost, matplotlib
   
-  **Attention** before run the code in jupyter notebook, change 'path' to your own work path
+  **Attention:** before run the code in jupyter notebook, change 'path' to your own work path
