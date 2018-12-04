@@ -10,9 +10,9 @@ $O(n\overline{p}k)$ , where $k$ is the number of iterations (epochs) and $\overl
   
 ## About
 
-  The ipynb file records my work in details; xgboost.csv records my result. train.csv and test.csv are identical with filed provided in Kaggle.
+  The ipynb file records my work in details; xgboost.csv records my result. train.csv and test.csv are identical with files provided in Kaggle.
   
-  *(There might be small differences for I changed parameters in my code and forgot to save a copy.)*
+  *(There might be small differences because I changed parameters in my code to test the results and forgot to save a copy.)*
   
   
   **Programming language:** python
